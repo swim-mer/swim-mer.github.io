@@ -1,5 +1,9 @@
-img, .message {
+img {
     max-height: 100vh;
     max-width: 100%;
     height: auto;
+}
+
+.message {
+    font-size: x-large;
 }
