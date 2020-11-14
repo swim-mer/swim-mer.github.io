@@ -6,3 +6,7 @@ img {
 p {
     font-size: xx-large;
 }
+
+#container {
+    vertical-align: middle;
+}
