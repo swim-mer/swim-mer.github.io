@@ -1,4 +1,4 @@
-img {
+img, .message {
     max-height: 100vh;
     max-width: 100%;
     height: auto;
