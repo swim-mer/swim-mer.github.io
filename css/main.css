@@ -1,0 +1,6 @@
+#viewport {
+    position: absolute;
+    width: 100%;
+    min-width: 400px;
+    min-height: 100%;
+}
