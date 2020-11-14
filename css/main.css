@@ -10,9 +10,6 @@
 }
 
 .box {
-    position: absolute;
-    top: 0;
-    left: 0;
     display: flex;
     max-height: 100vh;
     max-width: 100%;
@@ -21,4 +18,11 @@
 
 .message {
     font-size: xx-large;
+    position: absolute;
+    top: 0;
+}
+
+.image {
+    position: absolute;
+    bottom: 0;
 }
