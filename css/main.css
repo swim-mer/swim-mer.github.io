@@ -1,4 +1,21 @@
-.viewport {
+#viewport {
+    position: absolute;
+    width: 100%;
+}
+
+body {
+    position: relative;
+}
+
+#container {
+    display: inline-block;
+    vertical-align: top;
+    align-items: center;
+    line-height: 100%;
+}
+
+img, .message {
+    display: flex;
     max-height: 100vh;
     max-width: 100%;
     height: auto;
