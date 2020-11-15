@@ -12,13 +12,17 @@
     text-align: center;
 }
 
+.main {
+    margin-top: 75px;
+}
+
 .card {
     padding: 15px 0;
     margin: 15px auto;
 
     //outline: 3px solid rgb(131, 126, 126);
     //background-color: rgb(4, 80, 94);
-    width: 90%;
+    width: 90%; 
 
     font-family: Charcoal, sans-serif;
 }
@@ -48,6 +52,10 @@
     display: flex;
     flex-direction: row;
     margin: 10px 5px;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .navbar__link {
