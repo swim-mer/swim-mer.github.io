@@ -19,7 +19,6 @@
     max-width: 800px;
     width: 90%; 
     font-family: Charcoal, sans-serif;
-
 }
 
 .card__image {
@@ -62,8 +61,8 @@
 }
 
 .navbar__link {
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
     display: flex;
 }
 
