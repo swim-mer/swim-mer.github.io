@@ -10,12 +10,13 @@
 
 .main {
     margin-top: 100px;
+    position: relative;
 }
 
 .card {
     padding: 15px 0;
     margin: 15px auto;
-
+    max-width: 800px;
     width: 90%; 
     font-family: Charcoal, sans-serif;
 }
@@ -70,5 +71,5 @@ a:visited {
 }
 
 p {
-    max-width: 600px;
+    max-width: 800px;
 }
