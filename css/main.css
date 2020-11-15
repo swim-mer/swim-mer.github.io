@@ -44,7 +44,8 @@
 .navbar {
     display: flex;
     flex-direction: row;
-    margin: 10px 5px;
+    margin: 0 5px;
+    margin-bottom: 10px;
 
     background-color: white;
 
