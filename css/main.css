@@ -13,15 +13,13 @@
 }
 
 .main {
-    margin-top: 75px;
+    margin-top: 100px;
 }
 
 .card {
     padding: 15px 0;
     margin: 15px auto;
 
-    //outline: 3px solid rgb(131, 126, 126);
-    //background-color: rgb(4, 80, 94);
     width: 90%; 
 
     font-family: Charcoal, sans-serif;
@@ -45,7 +43,7 @@
 }
 
 .card__description {
-    font-size: medium;
+    font-size: small;
 }
 
 .navbar {
