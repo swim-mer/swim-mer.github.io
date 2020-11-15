@@ -24,13 +24,19 @@
     max-height: 100vh;
 }
 
-.card__text {
-    font-size: xx-large;
+.card__text, .card__title, .card__description {
     padding: 5px;
 }
 
+.card__text {
+    font-size: medium;
+}
+
+.card__title {
+    font-size: xx-large;
+}
+
 .card__description {
-    padding: 5px;
     font-size: medium;
 }
 
