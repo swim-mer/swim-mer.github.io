@@ -1,9 +1,5 @@
 // Styling based on BEM {}
 
-.home {
-    max-height: 100vh;
-}
-
 .center {
     display: block;
     margin: auto;
