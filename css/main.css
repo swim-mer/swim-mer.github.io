@@ -10,7 +10,6 @@
 
 .main {
     margin-top: 100px;
-    position: relative;
     z-index: 0;
 }
 
@@ -20,6 +19,7 @@
     max-width: 800px;
     width: 90%; 
     font-family: Charcoal, sans-serif;
+
 }
 
 .card__image {
@@ -77,4 +77,9 @@ p {
 
 #blog {
     font-size: 7vh;
+}
+
+.github {
+    width: 20px;
+    height: 20px;
 }
