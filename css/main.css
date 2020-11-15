@@ -43,17 +43,22 @@
     font-size: small;
 }
 
-.navbar {
+.navbar-upper, .navbar-lower {
     display: flex;
     flex-direction: row;
     margin: 0 5px;
-
     background-color: white;
     position: fixed;
-    top: 0;
     width: 100%;
     z-index: 5;
+}
 
+.navbar-upper {
+    top: 0;
+}
+
+.navbar-lower {
+    bottom: 0;
 }
 
 .navbar__link {
