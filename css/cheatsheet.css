@@ -8,6 +8,16 @@ body {
     padding: 10px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    margin: auto;
+    width: 100%;
+}
+
 header nav {
     position: fixed;
     width: 80%;
