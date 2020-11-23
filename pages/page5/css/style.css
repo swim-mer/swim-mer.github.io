@@ -1,3 +1,73 @@
 body {
-    line-height: 1;
+    line-height: 1.5;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: white;
+    font-family: Charcoal, sans-serif;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    box-shadow: 30px 20px 25px 0px green;
+    color: green;
+}
+
+img {
+    padding: 5px;
+    margin: auto;
+    width: 100%;
+}
+
+header nav {
+    position: fixed;
+    width: 80%;
+    border: 1px solid black;
+}
+
+nav .nav__links {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+nav a {
+    list-style-type: none;
+    padding: 20px;
+    text-align: center;
+}
+
+section#main {
+    margin-top: 150px;
+    padding: 15px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#main h2 {
+    padding: 5px;
+}
+
+#main p {
+    padding: 5px;
+    line-height: 1.4;
+}
+
+.card, .card__title, .card__description {
+    padding: 5px;
+    margin: auto;
+}
+
+.card {
+    padding: 30px;
+    background-color: white;
+    border: 1px solid black;
 }
