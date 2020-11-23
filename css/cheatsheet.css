@@ -54,3 +54,11 @@ section#main {
     padding: 5px;
     border: 1px dotted royalblue
 }
+
+@keyframes expand-collapse {
+    0% {margin-top: 0px;}
+    25% {margin-top: 100px;}
+    50% {margin-top: 200px;}
+    75% {margin-top: 100px;}
+    100% {margin-top: 0px;}
+}
