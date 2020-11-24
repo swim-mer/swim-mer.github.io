@@ -1,0 +1,65 @@
+html {
+    background-color: rgba(255, 137, 0, .55);
+}
+
+body {
+    line-height: 1.5;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    background-image: url(../images/autumn.jpg);
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    margin: auto;
+    width: 100%;
+}
+
+header nav {
+    position: fixed;
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid black;
+    background-color: lemonchiffon;
+}
+
+nav a {
+    padding: 20px;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section#main {
+    margin-top: 350px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: lemonchiffon;
+}
+
+#main h2               {
+    padding: 5px;
+    font-size: x-large;
+}
+
+#main p {
+    padding: 5px;
+    line-height: 1.4;
+}
+
+.card, .card__title, .card__description {
+    padding: 5px;
+}
