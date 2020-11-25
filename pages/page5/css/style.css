@@ -116,7 +116,11 @@ section#main {
     margin: 5px;
 }
 
-@media screen and (max-width:1024px){
+#bottom {
+    padding-top: 150px;
+}
+
+@media screen and (max-width:1200px){
     nav div a {
         padding: 0px;
     }
