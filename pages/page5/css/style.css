@@ -16,6 +16,7 @@ a {
 
 a:hover {
     border: 1px solid black;
+    padding: 10px;
     border-radius: 20px;
 }
 
@@ -100,6 +101,7 @@ section#main {
     padding: 30px;
     background-color: white;
     border: 1px solid black;
+    box-shadow: 0 7px 10px rgba(0,0,0,0.25), 0 3px 6px rgba(0,0,0,0.10);
 }
 
 .burger {
