@@ -3,6 +3,7 @@ body {
     width: 80%;
     margin: auto;
     font-family: Charcoal, sans-serif;
+    letter-spacing: 1px;
     padding: 10px;
 }
 
@@ -56,6 +57,8 @@ nav div a {
     list-style-type: none;
     text-align: center;
     padding: 10px;
+    letter-spacing: 2px;
+    font-weight: bold;
 }
 
 section#main {
