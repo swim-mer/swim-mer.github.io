@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 body {
     line-height: 1.5;
     width: 80%;
     margin: auto;
-    font-family: Charcoal, sans-serif;
+    font-family: Roboto;
     letter-spacing: 1px;
     padding: 10px;
 }
@@ -58,7 +60,7 @@ nav div a {
     text-align: center;
     padding: 10px;
     letter-spacing: 2px;
-    font-weight: bold;
+
 }
 
 section#main {
@@ -82,10 +84,38 @@ section#main {
 .card, .card__title, .card__description {
     padding: 5px;
     margin: auto;
+    line-height: 3;
+}
+
+.card__title {
+    font-size: 20px;
+}
+
+.card__description {
+    font-size: 15px;
 }
 
 .card {
+    width: 50%;
     padding: 30px;
     background-color: white;
     border: 1px solid black;
+}
+
+.burger {
+    display: none;
+}
+
+.burger div {
+    padding: 0;
+    width: 15px;
+    height: 3px;
+    background-color: black;
+    margin: 5px;
+}
+
+@media screen and (max-width:1024px){
+    nav div a {
+        padding: 0px;
+    }
 }
