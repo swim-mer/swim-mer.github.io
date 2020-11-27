@@ -1,0 +1,9 @@
+@import "style.css";
+
+#blog {
+    position: sticky;
+    z-index: 1000;
+    top: 70px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.25), 0 10px 6px rgba(0,0,0,0.10);
+}
+
