@@ -1,9 +1,31 @@
 @import "style.css";
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Ubuntu:wght@300;500&family=Yanone+Kaffeesatz:wght@300&display=swap');
 
-#blog {
-    position: sticky;
-    z-index: 1000;
-    top: 70px;
-    box-shadow: 0 10px 10px rgba(0,0,0,0.25), 0 10px 6px rgba(0,0,0,0.10);
+
+body, section#main {
+    background-color: #d95b43;
+}
+    
+nav {
+    background-color: #d95b43;
 }
 
+.card {
+    color: #d95b43;
+    margin: 0 auto;
+}
+
+.card__text {
+    color: rgb(49, 49, 49);
+}
+
+@keyframes move-left {
+    0% {
+        position: fixed;
+        left: 20px;
+    }
+    25% {margin-top: 100px;}
+    50% {margin-top: 200px;}
+    75% {margin-top: 100px;}
+    100% {margin-top: 0px;}
+}
