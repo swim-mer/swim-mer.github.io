@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500&family=Yanone+Kaffeesatz:wght@300&display=swap');
 
 body {
@@ -7,14 +7,15 @@ body {
     margin: auto;
     font-family: Roboto;
     font-size: x-large;
+
     letter-spacing: 1px;
     padding: 10px;
-    background-color: #d95b43;
+    background-color: #152911;
 }
 
 a {
     text-decoration: none;
-    color: #122412;
+    color: rgb(124, 252, 124);
 }
 
 a:hover {
@@ -24,10 +25,10 @@ a:hover {
 }
 
 a:active {
-    background-color: #d95b43;
+    background-color: #152911;
     color: white;
     padding: 10px;
-    border: 1px solid #d95b43;
+    background-color: #152911;
     border-radius: 20px;
 }
 
@@ -45,14 +46,14 @@ nav {
     right: 0;
     position: fixed;
     margin: auto;
-    background-color: #d95b43;
+    background-color: #152911;
 }
 
 nav .nav__links {
     display: flex;
     justify-content: flex-end;
     margin: 15px;
-    background-color: #d95b43;
+    background-color: #152911;
 }
 
 nav div {
@@ -64,7 +65,6 @@ nav div a {
     text-align: center;
     padding: 10px;
     letter-spacing: 2px;
-    color: rgb(49, 49, 49);
 }
 
 section#main {
@@ -72,7 +72,7 @@ section#main {
     padding: 15px;
     display: flex;
     flex-wrap: wrap;
-    background-color: #d95b43;
+    background-color: #152911;
 }
 
 #main h2 {
@@ -91,19 +91,20 @@ section#main {
 }
 
 .card__title {
-    font-size: 35px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
-.card__text {
-    font-size: 18px;
+.card__text, .card__description {
+    font-size: 16px;
 }
 
 .card {
     width: 60%;
     margin: 10px auto;
     padding: 30px;
-    color: rgb(54, 53, 53);
-    background-color: white;
+    color: rgb(124, 252, 124);
+    background-color: #152911;
 }
 
 .burger {

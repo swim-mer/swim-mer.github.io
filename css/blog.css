@@ -1,22 +1,8 @@
 @import "style.css";
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Ubuntu:wght@300;500&family=Yanone+Kaffeesatz:wght@300&display=swap');
 
-
-body, section#main {
-    background-color: #d95b43;
-}
-    
-nav {
-    background-color: #d95b43;
-}
-
-.card {
-    color: #d95b43;
-    margin: 0 auto;
-}
-
 .card__text {
-    color: rgb(49, 49, 49);
+    letter-spacing: 1.5px;
 }
 
 @keyframes move-left {
