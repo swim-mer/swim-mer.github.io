@@ -94,7 +94,7 @@ section#main {
 .card__title {
     font-size: 56px;
     font-weight: bold;
-    line-height: 1.7;
+    line-height: 1;
 }
 
 figure {
@@ -133,9 +133,6 @@ figure {
     margin: 5px;
 }
 
-#bottom {
-    padding-top: 150px;
-}
 
 @media screen and (max-width:1000px){
     nav div a {
@@ -144,5 +141,9 @@ figure {
 
     .card {
         width: 80%;
+    }
+
+    section#main {
+        margin-top: 50px;
     }
 }
