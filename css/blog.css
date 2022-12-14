@@ -1,16 +1,12 @@
 @import "style.css";
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Ubuntu:wght@300;500&family=Yanone+Kaffeesatz:wght@300&display=swap');
 
-.card__text {
-    letter-spacing: 1.5px;
+.card {
+    margin: 10px auto;
 }
 
-.blog__card {
-    border: 1px solid white;
-}
-
-@media screen and (max-width:1000px){
-    .blog__card {
-        border: none;
-    }
+#blog {
+    position: sticky;
+    z-index: 1000;
+    top: 70px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.25), 0 10px 6px rgba(0,0,0,0.10);
 }
