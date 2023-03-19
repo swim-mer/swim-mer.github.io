@@ -1,0 +1,64 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html {
+  background: #d09242;
+  background: #d09242 linear-gradient(#e29430, #d09242) fixed;
+}
+
+header ul li {
+    border-right: none;
+}
+
+header {
+  background: linear-gradient(#0087aa, #0087aa);
+  
+  h1 {
+    color: #fcf4bb;
+    text-shadow: rgba(#9b7e71, 0.9) 0 .25px 0;
+  }
+  
+  p {
+    color: #fffbe8;
+    
+    &.view {
+      text-shadow:rgba(#fff, 0.9) 0 .5px 0;
+      
+      a {
+        color: #e795c4;
+      }
+    }
+  }
+  
+  ul {
+    background: #e795c4;
+    background: linear-gradient(#e795c4, #e795c4);
+  }
+}
+
+a {
+  color: #e795c4;
+  font-weight: bold;
+}
+
+section {
+  background: linear-gradient(#0087aa, #0087aa 700px);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fcf4bb; 
+}
+
+h1, h2 {
+  color: #fcf4bb;
+}
+
+h3, h4, h5, h6 {
+  color: #fef7d2;
+}
+
+p {
+  color: #fffbe8;
+}
