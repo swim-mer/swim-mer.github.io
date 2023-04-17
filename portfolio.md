@@ -1,4 +1,4 @@
-## Portfolio of my work
+## Portfolio
 
 ### CRM 
 #### Created with Java 17, JavaFX 17, SceneBuilder, MySQL JDBC Driver, and MySQL on a Windows 10 machine.
