@@ -62,3 +62,9 @@ h3, h4, h5, h6 {
 p {
   color: #fffbe8;
 }
+
+@media print, screen and (max-width: 740px) {
+  header, section {
+    border-radius: 0;
+  }
+}
