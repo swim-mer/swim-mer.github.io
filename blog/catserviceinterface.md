@@ -19,6 +19,6 @@ I made this recording after sun down. No hands on work was done to make this app
 
 This week I found an API to use for endpoint querying. It's called [Cat as a Service](https://cataas.com/).
 
-![Gif of app that changes hero image to random cat photo when user clicks button](https://github.com/swim-mer/swim-mer.github.io/raw/main/assets/images/ClickForRandomCat.mp4) 
+![Gif of app that changes hero image to random cat photo when user clicks button](https://github.com/swim-mer/swim-mer.github.io/raw/main/assets/images/ClickForRandomCat.gif) 
 
 The user enters characters into the text box, clicks the button, and the last character of the input is removed. Also, the image changes to a random cat image made via HTTP GET request from CaaS. The two are currently unrelated. 
