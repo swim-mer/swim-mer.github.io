@@ -63,6 +63,10 @@ p {
   color: #fffbe8;
 }
 
+img {
+  margin: auto;
+}
+
 @media print, screen and (max-width: 740px) {
   header, section {
     border-radius: 0;
