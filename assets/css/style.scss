@@ -59,12 +59,22 @@ h3, h4, h5, h6 {
   color: #fef7d2;
 }
 
-p {
+p, li {
   color: #fffbe8;
 }
 
 img {
   margin: auto;
+}
+
+.logo {
+  max-width: 30px;
+  max-height: 25px;
+}
+
+.top-menu {
+  margin: 0 auto;
+
 }
 
 @media print, screen and (max-width: 740px) {
