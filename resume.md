@@ -47,10 +47,11 @@ Mar 2020–Nov 2020
 * Led a team of QA devs through building and implementing the automated testing framework to spread deeper understanding of the product and empower manual testers to automate their own processes
 * Mentored other team members for collaboration and mutual growth, enforced code standards such as using a linter and using version control to prevent future bottlenecks and improve overall efficiency in team progress
 
+<!--
 ## Projects
 
 #### See my [portfolio](portfolio.md) for examples of my work. 
-
+-->
 ## Education
 ### Long Beach City College, Pasadena City College		
 #### Dean's List
