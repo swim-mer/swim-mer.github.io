@@ -1,7 +1,5 @@
 # Cat Service Interface
 
-## [About](about.md) -- [Home](index.md) -- [Portfolio](portfolio.md)
-
 ### My first ever Swift App
 #### May 21 2023
 
