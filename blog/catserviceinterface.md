@@ -46,5 +46,5 @@ I had several race conditions between View updates and API calls. I solved the i
 
 ### The app is complete
 
-<iframe class="wrapper" max-width="560" height="315" src="https://www.youtube.com/embed/zJSYj9NrGD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="wrapper video" max-width="560" height="315" src="https://www.youtube.com/embed/zJSYj9NrGD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
