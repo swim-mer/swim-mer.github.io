@@ -24,7 +24,6 @@ I spent the week setting up HTTP GET requests in Swift and managing the View. I 
 
 Now the user enters characters into the text box, clicks the button, and the last character of the input is removed. Also, the image changes to a random cat image made via HTTP GET request from CaaS. The two are currently unrelated. 
 
-### 
 #### June 4 2023
 
 My next step is to add a drop down menu that will be populated with API Tags acquired via HTTP GET request from CaaS.
@@ -33,7 +32,7 @@ In Swift this is called a [Picker](https://developer.apple.com/documentation/swi
 
 I struggled with managing the State variables and GET requests from the CaaS server. In order to get complete data into the Picker, I added [escaping closures](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Escaping-Closures) to API GET request methods.
 
-<img class="wrapper" idth="560" alt="Gif of app that displays a Picker with a list of API tags when user types a character" src="{{site.url}}/assets/images/SelectTagForRelevantCat.gif"/>
+<img class="wrapper" width="560" alt="Gif of app that displays a Picker with a list of API tags when user types a character" src="{{site.url}}/assets/images/SelectTagForRelevantCat.gif"/>
 
 ### The final tweak
 #### June 18 2023
