@@ -12,6 +12,8 @@ My core skills are leading projects, learning new skills, and problem solving. I
 ## Professional Experience
 
 ### Software Engineer
+<a href="https://geisel.software/"><img class="logo company-logo" alt="GSI Logo" src="/assets/images/gsi-logo.png"/></a>
+
 #### Amazon Robotics contract: Wrote robotics simulation firmware for Amazon warehouses
 <a href="https://isocpp.org/"><img class="logo" alt="CPP Logo" src="/assets/images/cpp_logo.png"/></a>
 <a href="https://cmake.org/"><img class="logo" alt="CMake Logo" src="/assets/images/cmake_logo_slider.png"/></a>
@@ -19,7 +21,7 @@ My core skills are leading projects, learning new skills, and problem solving. I
 <a href="https://www.gnu.org/software/bash/"><img class="logo" alt="Bash Logo" src="/assets/images/bash-logo-web.png"/></a>
 <a href="https://www.python.org/"><img class="logo" alt="Python Logo" src="/assets/images/python-logo-only.png"/></a>
 <a href="https://aws.amazon.com/"><img class="logo" alt="AWS Logo" src="/assets/images/aws-logo.png"/></a>
-#### Geisel Software, Inc. 							      
+
 May 2021–Feb 2022
 * Removed manual integration of more than 10 third party packages by writing CMake, Bazel, and Bash scripts to automate builds, saving hours of manual build configuration during early stages of package’s development
 * Automated line coverage tracking using EC2 image build rules that monitored and enforced line coverage as development velocity and bug quantity increased, decreasing the number of customer error reports made
@@ -36,10 +38,11 @@ May 2021–Feb 2022
 * Wrote Python scripts to test against backend API endpoints during migration cutting migration time by weeks
 
 ### Software Engineer  					      			             	     
+<a href="https://www.processmaker.com/"><img class="logo company-logo" alt="ProcessMaker Logo" src="/assets/images/processmaker-logo.png"/></a>
 #### Designed and developed Trogdor, a framework for automatically testing ProcessMaker’s UI
 <a href="https://www.python.org/"><img class="logo" alt="Python Logo" src="/assets/images/python-logo-only.png"/></a>
 <a href="https://www.docker.com/"><img class="logo" alt="Docker logo" src="/assets/images/docker-logo.png"/></a>
-#### ProcessMaker, Inc.
+
 Mar 2020–Nov 2020 
 * Designed/Architected and built/developed an automated testing framework from scratch to be run inside a Docker container in order to streamline processes implementing workflows through the use of JSON APIs for BPMN SaaS, reducing the overall cost of manual labor and finding bugs that manual testers missed
 * Changed behavior of official Python 3 source code for integration with the framework I wrote to add persistence to the unittest module, enabling the dynamic creation of logs in production mode
