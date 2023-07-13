@@ -51,15 +51,13 @@ Mar 2020–Nov 2020
 * Mentored other team members for collaboration and mutual growth, enforced code standards such as using a linter and using version control to prevent future bottlenecks and improve overall efficiency in team progress
 
 ## Projects
+#### See my [portfolio](portfolio.md) for demos of completed work. 
 
 #### See my [blog](blog.md) for works in progress.
 
-<!--
-#### See my [portfolio](portfolio.md) for completed demos of my work. 
--->
 ## Education
 ### Long Beach City College, Pasadena City College		
 #### Dean's List
 Calculus, Linear Algebra, Differential Equations, C++, Programming in Engineering, Graphics Engineering, Physics, and Chemistry.
 ### Western Governors University
-BS in Computer Science, July 2023
+BS in Computer Science, August 2023
