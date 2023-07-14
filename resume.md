@@ -1,7 +1,8 @@
 # Resume
+<html><!--
 ## About
 
-My core skills are leading projects, learning new skills, and problem solving. I'm also good at communicating technical topics with the less technically inclined. Great at low level details, math, physics, and programming. In my spare time I enjoy improving my skills and learning new things. 
+My core skills are leading projects, learning new skills, and problem solving. I'm also good at communicating technical topics with the less technically inclined. Great at low level details, math, physics, and programming. In my spare time I enjoy improving my skills and learning new things.--></html>
 
 ## Technical skills
 <b>Programming languages</b>: C, C++14, C++20, Swift, Python 3, PL/SQL
