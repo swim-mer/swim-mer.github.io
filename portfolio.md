@@ -2,6 +2,13 @@
 
 ## 2023
 
+
+### Disaster Recovery Bot Simulation
+<a href="https://https://www.coppeliarobotics.com/"><img class="logo portfolio-logo-with-text" alt="CoppeliaSim Logo" src="/assets/images/coppeliasim-logo.png"/></a>
+
+<iframe class="wrapper video" height="415" src="https://www.youtube.com/embed/_-UEMS_5qRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/>
+
 ### Cat Service Interface
 <a href="https://www.swift.org/"><img class="logo portfolio-logo" alt="Swift Logo" src="/assets/images/swift-logo.png"/></a>
 <a href="https://developer.apple.com/xcode/swiftui/"><img class="logo portfolio-logo" alt="SwiftUI Logo" src="/assets/images/swiftui-logo.png"/></a>
