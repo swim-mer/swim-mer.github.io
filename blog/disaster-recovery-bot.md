@@ -1,6 +1,4 @@
-# Blog
-
-### Disaster Recovery Bot Simulation
+## Disaster Recovery Bot Simulation
 #### July 2023
 
 I created a robotics simulation using CoppeliaSim and Lua. 
