@@ -17,7 +17,7 @@ This robotics simulation shows a disaster recovery bot used to search for people
 <a href="https://www.swift.org/"><img class="logo portfolio-logo" alt="Swift Logo" src="/assets/images/swift-logo.png"/></a>
 <a href="https://developer.apple.com/xcode/swiftui/"><img class="logo portfolio-logo" alt="SwiftUI Logo" src="/assets/images/swiftui-logo.png"/></a>
 
-This native macOS application displays cat pictures filtered by a user selected tag. See the full blog post [here](/blog/catserviceinterface.md).
+This native macOS application displays cat pictures filtered by a user selected tag. See the full blog post [here](/blog/cat-service-interface.md).
 
 <iframe class="wrapper video" height="415" src="https://www.youtube.com/embed/zJSYj9NrGD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
