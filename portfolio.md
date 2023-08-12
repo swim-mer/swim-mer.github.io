@@ -8,7 +8,7 @@
 ### Disaster Recovery Bot Simulation Demo
 <a href="https://https://www.coppeliarobotics.com/"><img class="logo portfolio-logo-with-text" alt="CoppeliaSim Logo" src="/assets/images/coppeliasim-logo.png"/></a>
 
-This robotics simulation is of disaster recovery bot used to search for people in the event of an emergency where people are unaware of danger and unable to communicate. The simulation has a widget for users to save images streamed by a vision sensor. 
+This robotics simulation shows a disaster recovery bot used to search for people in the event of an emergency. See the full blog post [here](blog/disaster-recovery-bot.md). 
 
 <iframe class="wrapper video" height="415" src="https://www.youtube.com/embed/_-UEMS_5qRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br/>
